@@ -1,1 +1,6 @@
 *.txt
+*.md
+*.log
+*.pyc
+CLAUDE.md
+telegram*
